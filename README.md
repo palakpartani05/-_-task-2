@@ -2,7 +2,8 @@
 
 This is a simple game implemented in Java using the Swing library for the GUI. The game involves the computer generating a random number within a specified range (1 to 100), and the player tries to guess this number. The system provides feedback on whether the guessed number is higher or lower than the generated number, and announces if the player has guessed correctly.
 
-**Features:** Random number generation within a range (1-100).
+**Features:** 
+- Random number generation within a range (1-100).
 - User input for guessing the number.
 - Feedback if the guessed number is too high, too low, or correct.
 - Buttons to start the game, reset the game, check the guess, and quit the application.
