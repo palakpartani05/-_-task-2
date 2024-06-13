@@ -9,3 +9,5 @@ This is a simple project "Guess the Number" that allows the user to guess the nu
 
 **Technology Used :**
 - Java, Java Swing, GUI
+
+![image](https://github.com/palakpartani05/Number_Guessing_game/assets/139770730/ca723584-af69-4c16-8570-7785ccf1fd84)
